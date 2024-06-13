@@ -36,7 +36,19 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="Class_n_Objects/Pointer_to_Object_MemoryLeak.cpp" />
+		<Unit filename="Bugs_RunTime/Invalid_Memory_Access.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="Class_n_Objects/Pointer_to_Object_MemoryLeak.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="IIT_Code/11.01_02_Complex Numbers.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="IIT_Code/11.x_AreaOfRectangle.cpp" />
 		<Unit filename="Polymorphism/polymorphism_Practice.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -46,6 +58,10 @@
 			<Option link="0" />
 		</Unit>
 		<Unit filename="Stack/Stack.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="test.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
