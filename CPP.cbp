@@ -48,7 +48,53 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="IIT_Code/11.x_AreaOfRectangle.cpp" />
+		<Unit filename="IIT_Code/11.x_AreaOfRectangle.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="IIT_Code/12.3_Stack_Public_Access.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="IIT_Code/12.5_Stack_Private_Access.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="IIT_Code/13.16_Complex_ArrayOfObjects.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="IIT_Code/14.11_Rect_TraceObject.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="IIT_Code/14.1_OrderOfInitilization.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="IIT_Code/14.4_SimpleStringClass.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="IIT_Code/14.6_SimpleDateClass.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="IIT_Code/14.7_LifetimeEmbeddedObjects.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="IIT_Code/14.9_CopyCtor.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Polymorphism/polymorphism_Practice.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -57,6 +103,12 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="Projects/Protocol/Parser.cpp" />
+		<Unit filename="Projects/Protocol/parser.h">
+			<Option compile="1" />
+			<Option link="1" />
+		</Unit>
+		<Unit filename="Projects/Protocol/parser_app.cpp" />
 		<Unit filename="Stack/Stack.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -64,6 +116,9 @@
 		<Unit filename="test.cpp">
 			<Option compile="0" />
 			<Option link="0" />
+		</Unit>
+		<Unit filename="test.h">
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />

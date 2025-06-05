@@ -43,7 +43,7 @@ public:
     //Dtor
     ~Point()
     {
-        cout << "Point Dtor" ; print(); cout << endl;
+        cout << "Point Dtor" << endl;
     }
 };
 
@@ -92,7 +92,7 @@ public:
         cout  << " ]" << endl;
     }
 
-    Rect( const Rect& r):
+    Rect( const Rectt& r):
         TL(r.TL), BR(r.BR)
     {
         cout << "Rect C_Ctor" ;
@@ -115,4 +115,3 @@ int main(void)
     Rect r2(Point(3,5),Point(5,6));
     cout << "--------" <<endl;
 }
-
