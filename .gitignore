@@ -1,11 +1,22 @@
+# CMake build directory
+**/build/
+**/cmake-build-*/
+**/CMakeLists.txt.user
+
 # Prerequisites
 *.d
 
 # Compiled Object files
-*.slo
-*.lo
 *.o
 *.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+*.out
+
 
 # Precompiled Headers
 *.gch
@@ -15,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+# Backup/temporary files
+*~
+*.swp
+*.tmp
