@@ -95,6 +95,11 @@
 			<Option link="0" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="IIT_Code/37.1_ExceptionFlow.cpp" />
+		<Unit filename="IIT_Code/45.1_CopySortAlgorithm.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="Polymorphism/polymorphism_Practice.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -103,12 +108,15 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="Projects/Protocol/Parser.cpp" />
-		<Unit filename="Projects/Protocol/parser.h">
-			<Option compile="1" />
-			<Option link="1" />
+		<Unit filename="Projects/Protocol/Parser.cpp">
+			<Option compile="0" />
+			<Option link="0" />
 		</Unit>
-		<Unit filename="Projects/Protocol/parser_app.cpp" />
+		<Unit filename="Projects/Protocol/parser.h" />
+		<Unit filename="Projects/Protocol/parser_app.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="Stack/Stack.cpp">
 			<Option compile="0" />
 			<Option link="0" />
